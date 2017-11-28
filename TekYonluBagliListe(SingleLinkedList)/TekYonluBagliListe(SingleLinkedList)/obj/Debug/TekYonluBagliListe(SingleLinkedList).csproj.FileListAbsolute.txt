@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).exe.config
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).exe
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).pdb
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe_SingleLinkedList_.Form1.resources
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe_SingleLinkedList_.Properties.Resources.resources
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).csproj.GenerateResource.Cache
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).exe
+C:\Users\user\Desktop\visual studio\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).pdb
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).exe.config
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).exe
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).pdb
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).exe
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\bin\Debug\TekYonluBagliListe(SingleLinkedList).pdb
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe_SingleLinkedList_.Form1.resources
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe_SingleLinkedList_.Properties.Resources.resources
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ders notu\2. sınıf\otomasyon projeleri\2116\TekYonluBagliListe(SingleLinkedList)\TekYonluBagliListe(SingleLinkedList)\obj\Debug\TekYonluBagliListe(SingleLinkedList).csproj.CoreCompileInputs.cache
